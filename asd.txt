@@ -1,0 +1,15 @@
+S.no:  employeID  employeName salary  Netsalary  totalsalry
+1      Wipro01    satish      45000   47000       48000
+2      Wipro02    Durgesh     50000   52000       53000
+3      Wipro03    Ramu        35000   37000       38000
+4      Wipro04    Nagedra     55000   57000       58000
+5      Wipro05    madhu       40000   42000       43000
+6      Wipro06    syam        35000   36000       37000
+7      Wipro07    Rajeswari   44000   46000       47000
+8      Wipro08    Ramya       35000   37000       38000
+9      Wipro09    vamsi       39000   41000       42000
+10     Wipro10    prasad      55000   57000       58000
+11     Wipro11    prakash     60000   62000       63000
+12     Wipro12    kavya sree  25000   27000       28000
+13     Wipro13    vaRani      30000   32000       33000
+14     Wipro14    Ramesh      60000   62000       63000
